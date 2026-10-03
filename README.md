@@ -64,9 +64,9 @@ Interactive dashboard for analyzing sales performance and business metrics.
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gayatri-tech24&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=apoorvanvn&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayatri-tech24&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?userapoorvanvn&theme=tokyonight&hide_border=true" />
 
 ---
 
