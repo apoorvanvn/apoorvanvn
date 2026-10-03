@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apoorva N V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision+Enthusiast;Data+Analytics+%7C+Power+BI;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Cloudcomputing;Data+Analytics+%7C+Power+BI;Always+Learning+%26+Building" />
 
 ---
 
