@@ -8,10 +8,10 @@
 
 * 🎓 B.E. Computer Science Engineering Student
 * 📍 Bengaluru, India
-* 🤖 Interested in, **AI & Cloud Computing**
-* 📊 Learning **Data Analytics**
-* 💻 Building projects with **Python and Java**
-* 🔍 Interested in solving **real-world problems with data**
+* 🤖 Interested in, **Web Devloper,Web Designer**
+* 📊 Learning **Data Analytics,Front End Devloper**
+* 💻 Building projects with **Python,HTML,CSS,Java Script**
+* 🔍 Interested in solving **real-world problems with Web Devlopment Data**
 * 🚀 Looking for **Front End Developer & Data Analytics internship opportunities**
 
 ---
@@ -20,18 +20,10 @@
 
 ### 💻 Programming
 
+![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge\&logo=HTML\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🤖 Machine Learning & Computer Vision
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
 ### 📊 Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
@@ -44,21 +36,12 @@
 ---
 
 ## 🚀 Featured Projects
-
-🔹 **Hand Gesture Recognition**
-Computer vision project using OpenCV and MediaPipe.
-
-🔹 **CreditWise Loan Approval**
-Machine learning classification project comparing multiple ML algorithms.
-
-🔹 **House Price Prediction**
-Regression project involving EDA, preprocessing, outlier handling and model comparison.
-
-🔹 **Spotify Data Analysis**
-Exploratory data analysis to identify patterns and insights from Spotify data.
-
-🔹 **Power BI Sales Dashboard**
-Interactive dashboard for analyzing sales performance and business metrics.
+Featured Projects
+🌐 Personal Portfolio Website — Responsive portfolio showcasing skills, projects and achievements.
+🛒 E-Commerce Website — Modern shopping website with product listing, search and interactive UI.
+🏨 Hotel Booking Website — Responsive website for exploring rooms, bookings and hotel services.
+🌦️ Weather Application — Web app displaying real-time weather information using an API.
+📚 Student Study Planner — Website to manage study schedules, tasks and daily goals.
 
 ---
 
@@ -79,17 +62,21 @@ Interactive dashboard for analyzing sales performance and business metrics.
 ## 🌱 Currently Learning
 
 ```text
-Cloud Computing
+Front End Devloper
+Web Devlopment
+Java Script
+HTML,CSS
+Python
 Data Analytics
-DSA
-Full-Stack Development
+
+
 ```
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building projects, collaborating and exploring opportunities in **Cloud Computing,Full-Stack Development and Data Analytics**.
+I'm always interested in learning, building projects, collaborating and exploring opportunities in **Front End Developer and Data Analytics**.
 
 ---
 
