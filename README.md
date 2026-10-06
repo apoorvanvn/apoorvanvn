@@ -36,7 +36,6 @@
 ---
 
 ## 🚀 Featured Projects
-Featured Projects
 🌐<b> Personal Portfolio Website</b> — Responsive portfolio showcasing skills, projects and achievements.<br>
 🛒<b> E-Commerce Website</b> — Modern shopping website with product listing, search and interactive UI.<br>
 🏨<b> Hotel Booking Website </b> — Responsive website for exploring rooms, bookings and hotel services.<br>
