@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Apoorva N V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&vCenter=false&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Web Developer;Data+Analytics+%7Python;Always+Learning+%26+Building" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Web+Developer;Data+Analytics+%7C+Python;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -8,10 +10,10 @@
 
 * 🎓 B.E. Computer Science Engineering Student
 * 📍 Bengaluru, India
-* 🤖 Interested in, **Web Devloper,Web Designer**
-* 📊 Learning **Data Analytics,Front End Devloper**
+* 🤖 Interested in, **Web Developer,Web Designer**
+* 📊 Learning **Data Analytics,Front End Developer**
 * 💻 Building projects with **Python,HTML,CSS,Java Script**
-* 🔍 Interested in solving **real-world problems with Web Devlopment Data**
+* 🔍 Interested in solving **real-world problems with Web Development Data**
 * 🚀 Looking for **Front End Developer & Data Analytics internship opportunities**
 
 ---
