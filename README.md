@@ -37,11 +37,11 @@
 
 ## 🚀 Featured Projects
 Featured Projects
-🌐 Personal Portfolio Website — Responsive portfolio showcasing skills, projects and achievements.<br>
-🛒 E-Commerce Website — Modern shopping website with product listing, search and interactive UI.<br>
-🏨 Hotel Booking Website — Responsive website for exploring rooms, bookings and hotel services.<br>
-🌦️ Weather Application — Web app displaying real-time weather information using an API.<br>
-📚 Student Study Planner — Website to manage study schedules, tasks and daily goals.<br>
+🌐<b> Personal Portfolio Website</b> — Responsive portfolio showcasing skills, projects and achievements.<br>
+🛒<b> E-Commerce Website</b> — Modern shopping website with product listing, search and interactive UI.<br>
+🏨<b> Hotel Booking Website </b> — Responsive website for exploring rooms, bookings and hotel services.<br>
+🌦️<b> Weather Application</b> — Web app displaying real-time weather information using an API.<br>
+📚<b> Student Study Planner</b> — Website to manage study schedules, tasks and daily goals.<br>
 
 ---
 
